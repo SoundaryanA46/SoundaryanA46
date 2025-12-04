@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m Soundaryan, a Java Full-Stack Developer passionate about building secure and scalable applications using Spring Boot.
 
-<!--
-**SoundaryanA46/SoundaryanA46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+Secure Spring Boot projects with JWT, OAuth 2.0, WebSocket real-time chat apps, MongoDB , Mysql and API Security.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+Advanced  Microservices, OAuth 3.0 concepts, GenAI and Machine Learning .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on:
+Java Spring Boot projects, REST APIs, real-time applications, and security-focused systems.
+
+💬 Ask me about:
+I use Java, Spring Boot, Spring Security, MySQL, Hibernate, Maven, JWT, OAuth, WebSocket, REST API, HTML, CSS, JavaScript, Git, Docker, and STS/IntelliJ.
+
+You can reach me at soundaranbalagan19@gmail.com
