@@ -1,15 +1,11 @@
-👋 Hi, I’m Soundaryan, a Java Full-Stack Developer passionate about building secure and scalable applications using Spring Boot.
+👋 Hi, I’m Soundaryan, a Computer Science graduate and aspiring Software Engineer with a strong foundation in Java and backend development.
 
-🔭 I’m currently working on:
-Secure Spring Boot projects with JWT, OAuth 2.0, WebSocket real-time chat apps, MongoDB , Mysql and API Security.
+👯 I’m looking to collaborate on: real-world software development projects.
 
-🌱 I’m currently learning:
-Advanced  Microservices, OAuth 3.0 concepts, GenAI and Machine Learning .
+💼 I’m currently looking for: Fresher opportunities as a Software Engineer, Java Developer, or Full-Stack Developer where I can apply my skills, learn from experienced teams, and contribute to real-world projects.
 
-👯 I’m looking to collaborate on:
-Java Spring Boot projects, REST APIs, real-time applications, and security-focused systems.
+💬 Ask me about: Java, OOP, DSA, Spring Boot, Spring Data JPA, Spring Cloud, Microservices, MySQL, MongoDB, JDBC, REST APIs, JWT, Git, GitHub, JUnit, Postman, Maven, Docker, and AWS.
 
-💬 Ask me about:
-I use Java, Spring Boot, Spring Security, MySQL, Hibernate, Maven, JWT, OAuth, WebSocket, REST API, HTML, CSS, JavaScript, Git, Docker, and STS/IntelliJ.
+🌱 I’m currently learning: Advanced Microservices and cloud technologies, while continuously adapting to new technologies and development practices.
 
 You can reach me at soundaranbalagan19@gmail.com
