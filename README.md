@@ -33,8 +33,8 @@
 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
-</p>Java • Python • JavaScript
+  <img src="https://skillicons.dev/icons?i=java,js" />
+</p>Java • JavaScript
 
 ⚙️ Backend Development
 
@@ -61,8 +61,8 @@ Spring Security • JWT • JUnit • Postman
 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode" />
-</p>Git • GitHub • Docker • Maven • IntelliJ IDEA • VS Code
+  <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman" />
+</p>Git • GitHub • Docker • Maven • IntelliJ IDEA • VS Code • VS Postman 
 
 ---
 
@@ -88,12 +88,15 @@ Worked on a Smart Inventory Management System using Java, Spring Boot, and Mongo
 ---
 
 🤝 Let's Connect
-
 <p align="left"><a href="https://github.com/SoundaryanA46">
 <img src="https://img.shields.io/badge/GitHub-SoundaryanA46-181717?style=for-the-badge&logo=github"/>
-</a><a href="https://www.linkedin.com/">
+</a><a href="https://www.linkedin.com/in/soundaryan-a-0a3690280/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></p>---
+</a></p>
+
+- **Gmail:** [soundaranbalagan19@gmail.com](mailto:soundaranbalagan19@gmail.com)
+
+---
 
 <p align="center">🚀 Build • Learn • Improve • Repeat
 
